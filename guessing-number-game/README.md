@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -53,6 +52,7 @@
             <li>Follow the on-screen instructions to guess the number.</li>
             <li>Choose a difficulty level (easy or hard) at the beginning of the game.</li>
         </ul>
+    </ol>
 
     <h2>Game Screenshot</h2>
     <img src="https://example.com/game-screenshot.png" alt="Guess the Number Game Screenshot">
