@@ -41,4 +41,4 @@
 ## 🚀 How to Run
 
 1. Clone the repository:
-   git clone https://github.com/Girma35/beginner-games.git
+   git remote add origin https://github.com/Girma35/python_exersice.git
