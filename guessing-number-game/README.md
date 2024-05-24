@@ -55,9 +55,7 @@
     </ol>
 
     <h2>Game Screenshot</h2>
-    <a href="https://example.com/game-screenshot.png">
-        <img src="https://example.com/game-screenshot.png" alt="Guess the Number Game Screenshot">
-    </a>
+    <img src="https://example.com/game-screenshot.png" alt="Guess the Number Game Screenshot">
 </div>
 
 </body>
