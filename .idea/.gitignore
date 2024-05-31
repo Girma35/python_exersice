@@ -1,0 +1,8 @@
+# Default ignored files
+/../../quiz app /.idea/shelf/
+/../../quiz app /.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../quiz app /.idea/httpRequests/
+# Datasource local storage ignored files
+/../../quiz app /.idea/dataSources/
+/../../quiz app /.idea/dataSources.local.xml
