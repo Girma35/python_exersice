@@ -38,7 +38,10 @@ The Quiz Game is a simple yet engaging Python application built using the Tkinte
 
 ## Screenshots
 
-https://github.com/Girma35/python_exersice/assets/143084812/3a85274c-af18-45d5-85f2-1bc0a456c845
+
+https://github.com/Girma35/python_exersice/assets/143084812/aca34a1d-89ce-474b-a9ed-b69a70d986a5
+
+
 
 
 
@@ -52,4 +55,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to customize the sections as needed and add any additional information or resources you think would be helpful for users. This README.md file serves as a comprehensive guide for users interested in exploring and contributing to your project.
+Feel free to customize This README.md file 
