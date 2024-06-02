@@ -12,7 +12,11 @@ This Python script generates a beautiful dot pattern using Turtle graphics. The 
 
 ## Example Output
 
-![Example Output](example_output.png)
+
+
+https://github.com/Girma35/python_exersice/assets/143084812/1efb2c20-a469-4366-a216-9de1581305f1
+
+
 
 ## Inspiration
 
