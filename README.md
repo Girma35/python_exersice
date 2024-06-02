@@ -38,7 +38,16 @@
 - Input two numbers and choose an operation (+, -, *, /).
 - Get the result instantly!
 
+### 4. Turtle Graphics Dots Art
+
+**Description:** Create a beautiful dot pattern using Python's Turtle graphics. This script generates a series of colored dots in a grid-like pattern, showcasing the use of Turtle graphics and random color selection.
+
+**How to Run:**
+- Run `dots_art.py`.
+- Watch as the turtle creates a dot pattern on the screen.
+
 ## 🚀 How to Run
 
 1. Clone the repository:
-   git remote add origin https://github.com/Girma35/python_exersice.git
+   ```sh
+   git clone https://github.com/Girma35/python_exersice.git
